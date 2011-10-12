@@ -61,6 +61,10 @@ public interface Reader {
    */
   void reset();
 
+<<<<<<< HEAD
 }
 
 // 주석 추가
+=======
+}
+>>>>>>> 9ed27afc12a4d356b595e6da5a66c21036f6e368
